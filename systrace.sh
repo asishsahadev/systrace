@@ -1,4 +1,5 @@
 #! /bin/bash
+#asishsahadev@gmail.com
 # The script will display the system calls that are present in the Android source code along with their count. 
 # SYNTAX:   ./systrace pathtoAndroidSrc 
 
